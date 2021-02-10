@@ -1,0 +1,3 @@
+1 mario rossi via roma 5 10090 feletto
+2 giuseppe verdi via liguria 4 28265 savona
+3 beppe ungaretti via santena 11 99999 catania
